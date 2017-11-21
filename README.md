@@ -92,4 +92,4 @@ status = END;
 CPU - Intel(R) Xeon(R) CPU E5-2697 v2 @ 2.70GHz (24 core)  
 RAM - 256GB  
 OS - Ubuntu 16. 04. 3 LTS  
-![performance](/uploads/02739b3c4b56a5fc160a8538d767aac0/performance.png)
+![performance](/performance.png)
