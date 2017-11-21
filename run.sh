@@ -1,0 +1,12 @@
+echo 1
+./run 1
+echo 2
+./run 2
+echo 4
+./run 4
+echo 8
+./run 8
+echo 16
+./run 16
+echo 32
+./run 32

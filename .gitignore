@@ -1,0 +1,15 @@
+
+# Ignore all
+*
+# # Unignore all with extensions
+!*.*
+# Unignore all dirs
+!*/
+# Unignore Makefile
+!Makefile
+
+# Object Files
+*.o
+
+# cmake files
+cmake-build-debug
